@@ -1,5 +1,5 @@
-# cohens-kappa
- COMP8240 Applications of Data Science: Cohen's Kappa Calculation in Python and Excel
+# Cohen's Kappa Calculation in Python and Excel
+COMP8240 Applications of Data Science
 
 ## Overall Goal
 Tweets are annotated for sentiments from two annotators using a survey, and calculated the level of agreement in the annotations.
