@@ -1,0 +1,8 @@
+,Positive,Neutral,Negative,Grand Total
+Positive,14,5,5,24
+Neutral,13,7,5,25
+Negative,1,0,0,1
+Grand Total,28,12,10,50
+Observed Agreement,0.42,,,
+Expected Agreement,0.3928,,,
+Cohen's Kappa,0.044795784,,,
